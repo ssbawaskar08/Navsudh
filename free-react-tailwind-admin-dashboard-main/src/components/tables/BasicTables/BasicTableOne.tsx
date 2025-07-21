@@ -36,7 +36,7 @@ const tableData: Order[] = [
     team: {
       images: [
         "/images/user/user-22.jpg",
-        "/images/user/user-23.jpg",
+        "/images/user/user-23.jpg", 
         "/images/user/user-24.jpg",
       ],
     },
